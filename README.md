@@ -1,2 +1,2 @@
-# mod3_solution
-Course Assignment module 3
+## Welcome to my Github Page
+Welcome to my solution of the module 2 assigment
