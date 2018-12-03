@@ -83,9 +83,7 @@ body {
   background: #89b6c1;
   border: 1px solid #000000;
 }
-#nav-list a {
-  text-align: center;
-}
+
 #nav-list a:hover {
   background: #e59999;
 }
@@ -102,3 +100,17 @@ body {
 }
 /* END HEADER */
 
+/* CONTENT */
+#main-content {
+	margin: 10px auto 10px;
+}
+div.mc{
+	background:#a9b6a1;
+	margin-bottom: 10px;
+}
+
+.mc p {
+	margin: 10px auto 10px;
+	text-align: left;
+}
+}
